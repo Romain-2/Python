@@ -1,2 +1,2 @@
 # Python
-i test python for mad a pygame game 
+I test python for made a pygame game 
